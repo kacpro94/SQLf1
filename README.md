@@ -75,3 +75,9 @@ Tasks:
 - Generate a "Top 10 All-Time" ranking based on the algorithm.
 
 - Analysis: Compare the generated ranking against official championship titles to derive business insights.
+
+TO DO:
+- Make analysis of Driver Dominance and Position Gain - show why those drivers are on top of these metrics
+- make wages for Position Gain -> that will prevent situation where somebody who was on 20 place and gained 4 places is the same as from 4->1 place
+
+
